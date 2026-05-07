@@ -4,37 +4,16 @@ I'm Rahul, a frontend developer with backend knowledge from India.
 
 I build web projects using JavaScript, React, Tailwind CSS, Node.js, Express.js, and Java.
 
-Currently improving my frontend, backend, DSA, and problem-solving skills by building real projects from scratch.
+Currently improving my frontend and backend skills by building real projects from scratch and practicing DSA and problem solving.
 
 ---
 
-## ⚒️ Frontend
+## ⚒️ Tools & Tech
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-
----
-
-## ⚙️ Backend
-
-- Node.js
-- Express.js
-
----
-
-## 💻 Programming & Problem Solving
-
-- Java
-- DSA
-- Problem Solving
-
----
-
-## 🛠️ Tools
-
+- HTML, CSS, JavaScript
+- React & Tailwind CSS
+- Node.js & Express.js
+- Java, DSA & Problem Solving
 - Git & GitHub
 - VS Code
 
@@ -45,5 +24,4 @@ Currently improving my frontend, backend, DSA, and problem-solving skills by bui
 - 💻 I enjoy building web projects
 - 🚀 Learning something new every day
 - 🎯 Interested in frontend and backend development
-- 🧠 Practicing DSA and problem solving
 - ⚡ I like simple and clean UI
