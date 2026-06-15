@@ -1,27 +1,59 @@
 # Hey there 👋
 
-I'm Rahul, a frontend developer with backend knowledge from India.
+I'm Rahul, a passionate Full Stack Developer from India 🇮🇳
 
-I build web projects using JavaScript, React, Tailwind CSS, Node.js, Express.js, and Java.
+I enjoy building modern, responsive, and user-friendly web applications using technologies like React, Tailwind CSS, Node.js, Express.js, and Java.
 
-Currently improving my frontend and backend skills by building real projects from scratch and practicing DSA and problem solving.
-
----
-
-## ⚒️ Tools & Tech
-
-- HTML, CSS, JavaScript
-- React & Tailwind CSS
-- Node.js & Express.js
-- Java, DSA & Problem Solving
-- Git & GitHub
-- VS Code
+Currently, I'm focused on improving my Data Structures & Algorithms (DSA), problem-solving skills, and backend development by building real-world projects from scratch.
 
 ---
 
-## 🌱 A Bit About Me
+## 🚀 Tech Stack
 
-- 💻 I enjoy building web projects
-- 🚀 Learning something new every day
-- 🎯 Interested in frontend and backend development
-- ⚡ I like simple and clean UI
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Programming & CS Fundamentals
+
+* Java
+* Data Structures & Algorithms
+* Problem Solving
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+
+---
+
+## 🌱 About Me
+
+* 💻 Love building clean and interactive web applications
+* 🚀 Consistently learning and improving every day
+* 🎯 Interested in Full Stack Development
+* ⚡ Prefer simple, minimal, and clean UI designs
+* 📚 Practicing DSA and real-world development regularly
+
+---
+
+## 📌 Current Focus
+
+* Building Full Stack Projects
+* Improving Backend Architecture Knowledge
+* Strengthening DSA for Interviews
+* Writing Cleaner and Scalable Code
+
+---
+
+⭐ Always curious to learn new technologies and improve as a developer.
